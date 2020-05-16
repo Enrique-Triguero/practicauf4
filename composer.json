@@ -1,0 +1,17 @@
+{
+    "name": "jesusyenrique/practicauf4",
+    "description": "descarga informacion de una bbdd por nombre o fecha",
+    "type": "proyecto",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Jesus Garcia Barba y Enrique Triguero Serrano",
+            "email": "enrique.triguero@gracia.laslalle.cat"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jesusyenrique\\practicauf4\\": "src/"
+        }
+    }
+}
