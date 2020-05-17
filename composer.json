@@ -9,6 +9,7 @@
             "email": "enrique.triguero@gracia.laslalle.cat"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "practicauf4\\": "src/"
