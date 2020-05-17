@@ -1,18 +1,25 @@
 {
-    "name": "jesusyenrique/practicauf4",
-    "description": "descarga informacion de una bbdd por nombre o fecha",
-    "type": "proyecto",
+    "name": "jesusyenrique/precticauf4",
+    "description": "Descarga información de una BBDD por nombre y fecha",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
     "license": "mit",
     "authors": [
         {
-            "name": "Jesus Garcia Barba y Enrique Triguero Serrano",
-            "email": "enrique.triguero@gracia.laslalle.cat"
+            "name": "Jesus Garcia Barba",
+            "email": "jesus.garcia@gracia.lasalle.cat"
+        },
+        {
+            "name": "Enrique Triguero Serrano,
+            "email": "enrique.triguero@gracia.lasalle.cat"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "practicauf4\\": "src/"
+            "precticauf4\\": "src/"
         }
     }
 }
