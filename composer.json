@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "jesusyenrique\\practicauf4\\": "src/"
+            "Enrique-Triguero\\practicauf4\\": "src/"
         }
     }
 }
