@@ -19,7 +19,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "precticauf4\\": "src/"
+            "practicauf4\\": "src/"
         }
     }
 }
